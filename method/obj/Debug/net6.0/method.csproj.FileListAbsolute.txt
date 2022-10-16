@@ -1,0 +1,15 @@
+C:\Users\W10.TQ\LearningCS\method\bin\Debug\net6.0\method.exe
+C:\Users\W10.TQ\LearningCS\method\bin\Debug\net6.0\method.deps.json
+C:\Users\W10.TQ\LearningCS\method\bin\Debug\net6.0\method.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\method\bin\Debug\net6.0\method.dll
+C:\Users\W10.TQ\LearningCS\method\bin\Debug\net6.0\method.pdb
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\method.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\method.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\method.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\method.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\method.dll
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\refint\method.dll
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\method.pdb
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\method.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\method\obj\Debug\net6.0\ref\method.dll

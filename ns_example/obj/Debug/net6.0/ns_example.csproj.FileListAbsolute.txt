@@ -1,0 +1,15 @@
+C:\Users\W10.TQ\LearningCS\ns_example\bin\Debug\net6.0\ns_example.exe
+C:\Users\W10.TQ\LearningCS\ns_example\bin\Debug\net6.0\ns_example.deps.json
+C:\Users\W10.TQ\LearningCS\ns_example\bin\Debug\net6.0\ns_example.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\ns_example\bin\Debug\net6.0\ns_example.dll
+C:\Users\W10.TQ\LearningCS\ns_example\bin\Debug\net6.0\ns_example.pdb
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\ns_example.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\ns_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\ns_example.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\ns_example.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\ns_example.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\ns_example.dll
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\refint\ns_example.dll
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\ns_example.pdb
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\ns_example.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\ns_example\obj\Debug\net6.0\ref\ns_example.dll

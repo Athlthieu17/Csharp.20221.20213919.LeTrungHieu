@@ -1,0 +1,15 @@
+C:\Users\W10.TQ\LearningCS\generic_example\bin\Debug\net6.0\generic_example.exe
+C:\Users\W10.TQ\LearningCS\generic_example\bin\Debug\net6.0\generic_example.deps.json
+C:\Users\W10.TQ\LearningCS\generic_example\bin\Debug\net6.0\generic_example.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\generic_example\bin\Debug\net6.0\generic_example.dll
+C:\Users\W10.TQ\LearningCS\generic_example\bin\Debug\net6.0\generic_example.pdb
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\generic_example.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\generic_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\generic_example.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\generic_example.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\generic_example.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\generic_example.dll
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\refint\generic_example.dll
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\generic_example.pdb
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\generic_example.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\generic_example\obj\Debug\net6.0\ref\generic_example.dll
