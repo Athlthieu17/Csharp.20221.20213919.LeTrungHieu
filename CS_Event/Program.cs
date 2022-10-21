@@ -13,7 +13,11 @@ namespace CS_Event
         // publisher 
         class UserInput 
         {
-            public event EventInput _EventInput; 
+            // public event EventInput _EventInput;
+
+
+            // ~ delegate void KIEU(object? sender, EvenArgs args)
+            public event EventHandler _EventInput; 
 
             public void Input() 
             {
