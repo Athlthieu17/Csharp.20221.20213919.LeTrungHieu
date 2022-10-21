@@ -1,0 +1,15 @@
+C:\Users\W10.TQ\LearningCS\ListExample\bin\Debug\net6.0\ListExample.exe
+C:\Users\W10.TQ\LearningCS\ListExample\bin\Debug\net6.0\ListExample.deps.json
+C:\Users\W10.TQ\LearningCS\ListExample\bin\Debug\net6.0\ListExample.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\ListExample\bin\Debug\net6.0\ListExample.dll
+C:\Users\W10.TQ\LearningCS\ListExample\bin\Debug\net6.0\ListExample.pdb
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\ListExample.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\ListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\ListExample.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\ListExample.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\ListExample.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\ListExample.dll
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\refint\ListExample.dll
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\ListExample.pdb
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\ListExample.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\ListExample\obj\Debug\net6.0\ref\ListExample.dll
