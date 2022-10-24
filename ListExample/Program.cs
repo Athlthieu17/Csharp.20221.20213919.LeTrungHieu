@@ -14,112 +14,93 @@ namespace ListExample
     class Program
     {
         //List
+        //SortedList 
+        //Queue -- vao truoc ra truoc
+        //Stack -- vao sau ra truoc
+        //LinkedList - dang danh sach lien ket
+        // Dictionary
+        // HashSet
+
         static void Main(string[] args)
         {
-        //     List<int> ds1 = new List<int>() {7,8,9};
+        //     Queue<string> cachoso = new Queue<string>();
 
-        //     ds1.Add(1);
-        //     ds1.Add(1);
-        //     ds1.AddRange(new int[] {3,4,5});
+        //     cachoso.Enqueue("ho so 1");
+        //     cachoso.Enqueue("ho so 2");
+        //     cachoso.Enqueue("ho so 3");
 
-        //     Console.WriteLine(ds1.Count);
-        //     Console.WriteLine(ds1[1]);
-        //     ds1.Insert(0, 10); // them phan tu 10 o vi tri 0
+        //     //
+        //     var hoso = cachoso.Dequeue(); //loai bo  phan tu dau tien cua danh sach -> tra ve gia tri do
+        //     Console.WriteLine($"Xu ly {hoso} - {cachoso.Count}");
+            
+            // Stack<string> hanghoa = new Stack<string>();
+            // hanghoa.Push("mat hang 1");
+            // hanghoa.Push("mat hang 2");
+            // hanghoa.Push("mat hang 3");
 
-        //     ds1.RemoveAt(2); // xoa phan tu thu 2   
-        //     ds1.Remove(8); //xoa phan tu 8
+            // var mathang= hanghoa.Pop();
+            // Console.WriteLine($"Boc do {mathang}"); 
 
-        //     foreach (int n in ds1)
-        //     {
-        //         Console.WriteLine(n);
-        //     }
-        //     var n = ds1.Find(
-        //         (e) => {
-        //             return e %2 ==0;
-        //         }
-        //     ); 
-        //     // tim kiem phan tu dau tien tim thay theo dieu kien delegate
-        //     Console.WriteLine(n);
+            // LinkedList<string> cacbaihoc = new LinkedList<string>();
 
-        //     var list_n = ds1.FindAll(
-        //         (e) => {
-        //             return e >5 ;
-        //         }
-        //     );
-        //     //  tra ve danh sach tat ca cac phan tu thoa man dieu kien delegate
-        //     foreach (int i in list_n)
-        //     {
-        //         Console.WriteLine(i);
-        //     }
+            // var bh1 = cacbaihoc.AddFirst("Bai hoc 1");
+            // var bh3 = cacbaihoc.AddLast("Bai hoc 3");
 
-        //     List<string> ds2;
+            // LinkedListNode<string> bh2 = cacbaihoc.AddAfter(bh1,"Bai hoc 2");
 
-        //     List<Product> products = new List<Product>() {
-        //         new Product() {
-        //             Name = "Iphone X", Price = 1000 , Origin = "China", Id=1
-        //         },
-        //         new Product() {
-        //             Name = "Samsung", Price = 900 , Origin = "China", Id=2
-        //         },
-        //         new Product() {
-        //             Name = "Sony", Price = 1100 , Origin = "Japan", Id=3
-        //         },
-        //         new Product() {
-        //             Name = "Nokia", Price = 800 , Origin = "China", Id=4
-        //         }
-        //     };
+            // cacbaihoc.AddLast("Bai hoc 4");
+            // cacbaihoc.AddLast("Bai hoc 5");
 
-        //     // Japan
+            // foreach (var baihoc in cacbaihoc)
+            // {
+            //     Console.WriteLine(baihoc);
+            // }
 
-        //     var p = products.Find(
-        //         (p) => {
-        //             return p.Origin == "Japan";
-        //         }
-        //     );
-        //     if (p != null) 
-        //     {
-        //         Console.WriteLine($"{p.Name} - {p.Price} - {p.Origin} - {p.Id}");
-        //     }
+            // var node = bh2;
+            // Console.WriteLine(node.Value);
 
-        //     products.Sort(
-        //         (p1, p2) => {
-        //             // return 0 if p1 == p2
-        //             // return 1 if p1 > p2
-        //             // return -1 if p1 < p2
-        //             if (p1.Price == p2.Price) return 0;
-        //             if (p1.Price < p2.Price) return 1;
-        //             return -1;
+            // node = node.Next;
 
-        //         }
-        //     );
+            // Console.WriteLine(node.Value);
 
-        //     foreach (var _products in products)
-        //     {
-        //         Console.WriteLine($"{_products.Name} - {_products.Price} - {_products.Origin}");;
-        //     }
-        // }
+            Dictionary<string,int> sodem = new Dictionary<string, int>()
+            {
+                ["one"] = 1,
+                ["two"] = 2
+            };
+            // thêm hoặc cập nhật
+            sodem["three"] = 3;
+            sodem.Add("four",4);
+            
+            // var keys = sodem.Keys;
+            // foreach (var k in keys)
+            // {
+            //     var value = sodem[k];
+            //     Console.WriteLine($"{k} = {value}");
+            // }
 
-        SortedList<string, Product> products = new SortedList<string, Product>();
-        products["SanPham1"] = new Product() {Name = "Iphone X", Price = 1000 , Origin = "China"};
-        products["SanPham2"] = new Product() {Name = "Iphone X", Price = 1000 , Origin = "China"};
-        products.Add("SanPham3", new Product() {Name = "Nokia", Price = 1000 , Origin = "China"});
+            // foreach (KeyValuePair<string,int> item in sodem)
+            // {
+            //     Console.WriteLine($"{item.Key} -> {item.Value}");
+            // }
 
-        var p = products["SanPham2"];
-        Console.WriteLine(p.Name);
-        var keys= products.Keys;
+            HashSet<int> set1= new HashSet<int>() 
+            {
+                1,2,3,5,6,7
+            };
+            HashSet<int> set2= new HashSet<int>() 
+            {
+                8,9,1,2,7,6,10
+            };
 
-        foreach (var _keys in keys)
-        {
-            var product = products[_keys];
-            Console.WriteLine(product.Name);
-        }
+            set1.UnionWith(set2); // gop set 1 va set 2 nhung khong trung nhau ve gia tri
+            foreach (int value in set1)
+            {
+                Console.WriteLine(value);
+            }
 
-        foreach (KeyValuePair<string, Product> item in products)
-        {
-            var key = item.Key;
-            var val = item.Value;
-            Console.WriteLine($"{key} - {val.Name}");
+            set1.IntersectWith(set2); // phep giao set1 va set2
+
         }
     }
-}
 }
