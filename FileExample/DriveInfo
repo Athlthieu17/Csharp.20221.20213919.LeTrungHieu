@@ -1,0 +1,20 @@
+using System;
+using System.IO;
+
+namespace FileExample 
+{
+    class DriveInfo 
+    {
+        public static void DriveInfoTest() 
+        {
+            DriveInfo drive = new DriveInfo("C:");
+            Console.WriteLine($"Drive: {drive.Name}");
+            Console.WriteLine($"Drive Tpye: {drive.DriveType}");
+            Console.WriteLine($"Label: {drive.VolumeLabel}");
+            Console.WriteLine($"Format: {drive.DriveFormat}");
+            Console.WriteLine($"Size: {drive.TotalSize}");
+            Console.WriteLine($"Free: {drive.TotalFreeSpace}");
+
+        }
+    }
+}
