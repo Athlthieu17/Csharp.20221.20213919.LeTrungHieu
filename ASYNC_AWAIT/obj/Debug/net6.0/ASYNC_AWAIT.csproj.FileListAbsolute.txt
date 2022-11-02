@@ -1,0 +1,15 @@
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\ASYNC_AWAIT.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\ASYNC_AWAIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\ASYNC_AWAIT.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\ASYNC_AWAIT.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\ASYNC_AWAIT.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\bin\Debug\net6.0\ASYNC_AWAIT.exe
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\bin\Debug\net6.0\ASYNC_AWAIT.deps.json
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\bin\Debug\net6.0\ASYNC_AWAIT.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\bin\Debug\net6.0\ASYNC_AWAIT.dll
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\bin\Debug\net6.0\ASYNC_AWAIT.pdb
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\ASYNC_AWAIT.dll
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\refint\ASYNC_AWAIT.dll
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\ASYNC_AWAIT.pdb
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\ASYNC_AWAIT.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\ASYNC_AWAIT\obj\Debug\net6.0\ref\ASYNC_AWAIT.dll
