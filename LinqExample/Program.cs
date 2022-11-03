@@ -38,7 +38,7 @@ namespace LinQExample
             {
                 new Brand{ID = 1, Name = "Cong ty AAA"},
                 new Brand{ID = 2, Name = "Cong ty AEF"},
-                new Brand{ID = 3, Name = "Cong ty ABC"},
+                new Brand{ID = 4, Name = "Cong ty ABC"},
             };
             var products = new List<Product>()
             {
@@ -154,7 +154,121 @@ namespace LinQExample
                         Console.WriteLine(p);
                     }
                 }
-                // Distinct
+                // Distinct 
+                products.SelectMany(p => p.Colors).ToList().ForEach(mau=>Console.WriteLine(mau)); //in ra tat ca cac mau 
+                products.SelectMany(p => p.Colors).Distinct().ToList().ForEach(mau=>Console.WriteLine(mau)); //in ra tat ca cac mau nhung khong trung nhau
+                // Single SingleOrDefault
+                var product_1 =products.Single(p => p.Price == 600);
+                Console.WriteLine(product_1);
+
+                // Any
+                var product_2 = products.Any( p=>p.Price == 600); //kiem tra san pham co price =600 neu dung la true...
+                Console.WriteLine(product_2);
+
+                // All
+                var product_3 = products.All( p=>p.Price > 200); //kiem tra cac san pham san pham co price >600 neu dung la true...
+                Console.WriteLine(product_3);
+
+                // Count
+                var product_4 = products.Count(p => p.Price >=600); //Dem so phan tu co price >=600
+                Console.WriteLine(product_4);
+
+                // In ra ten sam pham, ten thuong hieu, gia (300 ~ 400)
+                // gia giam dan
+
+                products.Where( p=> p.Price >=300 && p.Price <=400)
+                        .OrderByDescending(p =>p.Price)
+                        .Join(brands, p => p.Brand, b=>b.ID, (sp, th) =>
+                    {
+                        return new 
+                        {
+                            tenSP =sp.Name,
+                            tenTH = th.Name,
+                            Gia = sp.Price
+                        };
+                    }
+                )
+                .ToList()
+                .ForEach(info => Console.WriteLine($"{info.tenSP,15} {info.tenTH,15} {info.Gia,5}"));
+
+                /*
+                    1) Xac dinh nguon: from tenphantu in IEnumberables
+                    ... join, where, oderby, let tenbien =??
+                    2) Lay du lieu: select, group by ...
+                */
+                
+
+                var result_4 = from p in products  
+                                where p.Price == 400
+                               select p.Name;
+                result_4.ToList().ForEach( name => Console.WriteLine(name));
+
+                // Gia <=500, mau xanh
+                var result_5 = from p in products  
+                                from color in p.Colors
+
+                                where p.Price <= 500 && color =="Xanh"
+                                orderby p.Price descending
+
+                               select new {
+                                Ten = p.Name,
+                                Gia = p.Price,
+                                cacmau = p.Colors
+                               };
+                result_5.ToList().ForEach( 
+                    abc => {
+                        Console.WriteLine($"{abc.Ten}-{abc.Gia}-{string.Join(" ",abc.cacmau)}");
+                        
+                    }
+                );
+
+                // Nhom san pham theo gia
+                var result_6 = from p in products 
+                                group p by p.Price into gr
+                                orderby gr.Key
+                                select gr
+                                ;
+
+                result_6.ToList().ForEach(group=>{
+                Console.WriteLine(group.Key);
+                group.ToList().ForEach(p=>Console.WriteLine(p));
+                }
+                );
+
+                //  Doi tuong:
+                // Gia
+                // Cac san pham
+                // So luong
+                var result_7 = from p in products 
+                                group p by p.Price into gr
+                                orderby gr.Key
+                                let sl = "So luong la " + gr.Count()
+                                select new 
+                                {
+                                    Gia= gr.Key,
+                                    cacsanpham = gr.ToList(),
+                                    Soluong = sl
+                                }
+                                ;
+
+                result_7.ToList().ForEach(i=>{
+                Console.WriteLine(i.Gia);
+                Console.WriteLine(i.Soluong);
+                i.cacsanpham.ForEach(p => Console.WriteLine(p));
+                });
+
+                var result_8 = from p in products 
+                                join brand in brands on p.Brand equals brand.ID into t
+                                from b in t.DefaultIfEmpty()
+                                select new 
+                                {
+                                    Ten = p.Name,
+                                    Gia = p.Price,
+                                    thuonghieu = (b != null)? b.Name : "Khong co thuong hieu"
+                                };
+                result_8.ToList().ForEach(p => Console.WriteLine($"{p.Ten,10}-{p.Gia,10}-{p.thuonghieu,10}"));
+
+
                 
         }   
     }
