@@ -1,0 +1,15 @@
+C:\Users\W10.TQ\LearningCS\Type_Attr\bin\Debug\net6.0\Type_Attr.exe
+C:\Users\W10.TQ\LearningCS\Type_Attr\bin\Debug\net6.0\Type_Attr.deps.json
+C:\Users\W10.TQ\LearningCS\Type_Attr\bin\Debug\net6.0\Type_Attr.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\Type_Attr\bin\Debug\net6.0\Type_Attr.dll
+C:\Users\W10.TQ\LearningCS\Type_Attr\bin\Debug\net6.0\Type_Attr.pdb
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\Type_Attr.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\Type_Attr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\Type_Attr.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\Type_Attr.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\Type_Attr.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\Type_Attr.dll
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\refint\Type_Attr.dll
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\Type_Attr.pdb
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\Type_Attr.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\Type_Attr\obj\Debug\net6.0\ref\Type_Attr.dll
