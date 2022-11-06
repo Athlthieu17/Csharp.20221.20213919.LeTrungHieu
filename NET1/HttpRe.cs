@@ -154,7 +154,7 @@ namespace NET1
 
             // Tạo StringContent
             string jsoncontent = "{\"value1\": \"giatri1\", \"value2\": \"giatri2\"}";
-            var httpContent = new StringContent(jsoncontent, Encoding.UTF8, "application/json"); 
+            var httpContent = new StringContent(jsoncontent, encoding:System.Text.Encoding.UTF8, "application/json"); 
             httpRequestMessage.Content = httpContent;
 
             var response = await httpClient.SendAsync(httpRequestMessage);
