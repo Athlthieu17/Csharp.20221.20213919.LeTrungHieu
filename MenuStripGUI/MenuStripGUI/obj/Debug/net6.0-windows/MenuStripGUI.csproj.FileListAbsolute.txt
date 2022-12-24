@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\bin\Debug\net6.0-windows\MenuStripGUI.exe
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\bin\Debug\net6.0-windows\MenuStripGUI.deps.json
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\bin\Debug\net6.0-windows\MenuStripGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\bin\Debug\net6.0-windows\MenuStripGUI.dll
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\bin\Debug\net6.0-windows\MenuStripGUI.pdb
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.dll
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\refint\MenuStripGUI.dll
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.pdb
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\MenuStripGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\MenuStripGUI\MenuStripGUI\obj\Debug\net6.0-windows\ref\MenuStripGUI.dll

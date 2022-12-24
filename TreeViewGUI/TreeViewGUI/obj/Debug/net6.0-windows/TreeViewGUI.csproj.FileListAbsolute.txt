@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\bin\Debug\net6.0-windows\TreeViewGUI.exe
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\bin\Debug\net6.0-windows\TreeViewGUI.deps.json
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\bin\Debug\net6.0-windows\TreeViewGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\bin\Debug\net6.0-windows\TreeViewGUI.dll
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\bin\Debug\net6.0-windows\TreeViewGUI.pdb
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.dll
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\refint\TreeViewGUI.dll
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.pdb
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\TreeViewGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\TreeViewGUI\TreeViewGUI\obj\Debug\net6.0-windows\ref\TreeViewGUI.dll

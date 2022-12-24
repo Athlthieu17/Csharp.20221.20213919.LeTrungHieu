@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\bin\Debug\net6.0-windows\ListViewGUI.exe
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\bin\Debug\net6.0-windows\ListViewGUI.deps.json
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\bin\Debug\net6.0-windows\ListViewGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\bin\Debug\net6.0-windows\ListViewGUI.dll
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\bin\Debug\net6.0-windows\ListViewGUI.pdb
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.dll
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\refint\ListViewGUI.dll
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.pdb
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ListViewGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\ListViewGUI\ListViewGUI\obj\Debug\net6.0-windows\ref\ListViewGUI.dll
