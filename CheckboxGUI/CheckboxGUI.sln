@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckboxGUI", "CheckboxGUI\CheckboxGUI.csproj", "{1E79975D-C38B-487D-9F2C-87E3EEA84985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesssageBoxGUI", "..\MesssageBoxGUI\MesssageBoxGUI.csproj", "{3DE7C5FA-20C1-4951-AAE8-4630E7016BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E79975D-C38B-487D-9F2C-87E3EEA84985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E79975D-C38B-487D-9F2C-87E3EEA84985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E79975D-C38B-487D-9F2C-87E3EEA84985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E79975D-C38B-487D-9F2C-87E3EEA84985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE7C5FA-20C1-4951-AAE8-4630E7016BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE7C5FA-20C1-4951-AAE8-4630E7016BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE7C5FA-20C1-4951-AAE8-4630E7016BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE7C5FA-20C1-4951-AAE8-4630E7016BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22AE0BC1-2098-4E31-BACA-9CCED851983B}
+	EndGlobalSection
+EndGlobal

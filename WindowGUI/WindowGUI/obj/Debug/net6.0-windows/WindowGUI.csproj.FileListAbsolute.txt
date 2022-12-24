@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\bin\Debug\net6.0-windows\WindowGUI.exe
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\bin\Debug\net6.0-windows\WindowGUI.deps.json
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\bin\Debug\net6.0-windows\WindowGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\bin\Debug\net6.0-windows\WindowGUI.dll
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\bin\Debug\net6.0-windows\WindowGUI.pdb
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.dll
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\refint\WindowGUI.dll
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.pdb
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\WindowGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\WindowGUI\WindowGUI\obj\Debug\net6.0-windows\ref\WindowGUI.dll
