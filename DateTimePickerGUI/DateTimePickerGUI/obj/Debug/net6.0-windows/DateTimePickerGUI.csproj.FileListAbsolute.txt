@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\bin\Debug\net6.0-windows\DateTimePickerGUI.exe
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\bin\Debug\net6.0-windows\DateTimePickerGUI.deps.json
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\bin\Debug\net6.0-windows\DateTimePickerGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\bin\Debug\net6.0-windows\DateTimePickerGUI.dll
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\bin\Debug\net6.0-windows\DateTimePickerGUI.pdb
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.dll
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\refint\DateTimePickerGUI.dll
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.pdb
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\DateTimePickerGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\net6.0-windows\ref\DateTimePickerGUI.dll

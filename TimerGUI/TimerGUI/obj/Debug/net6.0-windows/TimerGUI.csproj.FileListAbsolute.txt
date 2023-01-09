@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\bin\Debug\net6.0-windows\TimerGUI.exe
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\bin\Debug\net6.0-windows\TimerGUI.deps.json
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\bin\Debug\net6.0-windows\TimerGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\bin\Debug\net6.0-windows\TimerGUI.dll
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\bin\Debug\net6.0-windows\TimerGUI.pdb
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.dll
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\refint\TimerGUI.dll
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.pdb
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\TimerGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\TimerGUI\TimerGUI\obj\Debug\net6.0-windows\ref\TimerGUI.dll

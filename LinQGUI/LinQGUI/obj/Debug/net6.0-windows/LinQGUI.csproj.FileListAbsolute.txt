@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\bin\Debug\net6.0-windows\LinQGUI.exe
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\bin\Debug\net6.0-windows\LinQGUI.deps.json
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\bin\Debug\net6.0-windows\LinQGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\bin\Debug\net6.0-windows\LinQGUI.dll
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\bin\Debug\net6.0-windows\LinQGUI.pdb
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.dll
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\refint\LinQGUI.dll
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.pdb
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\LinQGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\LinQGUI\LinQGUI\obj\Debug\net6.0-windows\ref\LinQGUI.dll

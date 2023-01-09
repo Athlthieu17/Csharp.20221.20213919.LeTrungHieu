@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\bin\Debug\net6.0-windows\ProcessBarGUI.exe
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\bin\Debug\net6.0-windows\ProcessBarGUI.deps.json
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\bin\Debug\net6.0-windows\ProcessBarGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\bin\Debug\net6.0-windows\ProcessBarGUI.dll
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\bin\Debug\net6.0-windows\ProcessBarGUI.pdb
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.dll
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\refint\ProcessBarGUI.dll
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.pdb
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ProcessBarGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\ProcessBarGUI\ProcessBarGUI\obj\Debug\net6.0-windows\ref\ProcessBarGUI.dll

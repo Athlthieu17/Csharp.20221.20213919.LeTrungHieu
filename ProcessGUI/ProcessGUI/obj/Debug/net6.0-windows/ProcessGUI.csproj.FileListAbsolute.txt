@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\bin\Debug\net6.0-windows\ProcessGUI.exe
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\bin\Debug\net6.0-windows\ProcessGUI.deps.json
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\bin\Debug\net6.0-windows\ProcessGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\bin\Debug\net6.0-windows\ProcessGUI.dll
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\bin\Debug\net6.0-windows\ProcessGUI.pdb
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.dll
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\refint\ProcessGUI.dll
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.pdb
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ProcessGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\ProcessGUI\ProcessGUI\obj\Debug\net6.0-windows\ref\ProcessGUI.dll

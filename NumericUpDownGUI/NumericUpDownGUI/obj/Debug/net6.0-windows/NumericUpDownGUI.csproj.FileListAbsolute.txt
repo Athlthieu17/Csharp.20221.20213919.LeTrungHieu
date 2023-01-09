@@ -1,0 +1,17 @@
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\bin\Debug\net6.0-windows\NumericUpDownGUI.exe
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\bin\Debug\net6.0-windows\NumericUpDownGUI.deps.json
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\bin\Debug\net6.0-windows\NumericUpDownGUI.runtimeconfig.json
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\bin\Debug\net6.0-windows\NumericUpDownGUI.dll
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\bin\Debug\net6.0-windows\NumericUpDownGUI.pdb
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.csproj.AssemblyReference.cache
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.Form1.resources
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.csproj.GenerateResource.cache
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.AssemblyInfoInputs.cache
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.AssemblyInfo.cs
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.csproj.CoreCompileInputs.cache
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.dll
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\refint\NumericUpDownGUI.dll
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.pdb
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\NumericUpDownGUI.genruntimeconfig.cache
+C:\Users\W10.TQ\LearningCS\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\net6.0-windows\ref\NumericUpDownGUI.dll
